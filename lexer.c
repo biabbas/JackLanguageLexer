@@ -1,11 +1,11 @@
 /******************************************************************************************
-*   Visit https://github.com/biabbas/JackLanguageLexer/lexer.c for all files.             *
+*   Visit https://github.com/biabbas/JackLanguageLexer/lexer.c for all files.              *
 *                                                                                          *
 *                                                                                          *
 *                                                                                          *
 *                                                                                          *
 *                                                                                          *                                                                                         
-*   Created by B I                                                                                       *
+*   Created and coded by B I Mohammed Abbas                                                *
 ******************************************************************************************/ 
 
 #include <stdlib.h>
